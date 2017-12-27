@@ -2,8 +2,8 @@
 //  UILabel+extension.h
 //  SLYP
 //
-//  Created by 秦正华 on 2016/11/18.
-//  Copyright © 2016年 马晓明. All rights reserved.
+//  Created by celia on 2016/11/18.
+//  Copyright © 2016年 HP. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -66,8 +66,6 @@
 - (void)changeLineSpace:(float)space;
 /** 改变label字间距 */
 - (void)changeWordSpace:(float)space;
-/**  */
--(void)alignTop;
 
 
 /** 根据字符串算label高度*/
